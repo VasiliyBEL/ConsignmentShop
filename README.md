@@ -8,9 +8,9 @@ This application should track how much should be paid to each vendor as well as 
 
 Requirements:
 
-1.List of Vendors;
-2.List of items per vendor;
-3.Each vendor should have a default commision rate;
-4.Commissions can change;
-5.Track how much to pay the vendor;
-6.Track how much to pay the store.
+1. List of Vendors;
+2. List of items per vendor;
+3. Each vendor should have a default commision rate;
+4. Commissions can change;
+5. Track how much to pay the vendor;
+6. Track how much to pay the store.
